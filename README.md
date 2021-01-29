@@ -2,6 +2,7 @@
 
 Copyright (c) 2021 Snuking.
 
+[+] Descrição:
 Snuking, a ferramenta para consulta, 
 trata-se de um sistema avançado, em Python,
 que ”puxa" dados de: IP, CPF, CEP, CNPJ, placa e telefone.
@@ -11,7 +12,7 @@ uso para quaisquer meios sem vínculo pedagógico ou
 educacional, é proibido. Não possui intenção comercial,
 portanto, não está a venda dos direitos.
 
-As informações obtidas:
+[+] As informações obtidas:
 IP:
 Seu endereço de IP;
 Cidade;
@@ -96,7 +97,7 @@ Scan com Numverify.com;
 Operadora;
 Tipo de linha;
 
-Instalação:
+[+] Instalação:
 Para instalar no seu Termux, siga os comandos:
 
 apt update && apt upgrade
