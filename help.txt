@@ -1,0 +1,9 @@
+#Snuking/Somos uma legião. 2021 ©
+
+apt update && apt upgrade
+apt install python
+apt install pip
+git clone 
+cd snuking
+python install.py
+python consulta.py
