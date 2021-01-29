@@ -101,7 +101,7 @@ Para instalar no seu Termux, siga os comandos:
 
 apt update && apt upgrade
 apt instala python
-git clone https://github.com/Snuking/Snuking/
+git clone https://github.com/Snuking/snuking/
 ls
 cd snuking
 python install.py
