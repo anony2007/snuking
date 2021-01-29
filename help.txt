@@ -3,7 +3,7 @@
 apt update && apt upgrade
 apt install python
 apt install pip
-git clone 
+git clone https://github.com/Snuking/snuking/
 cd snuking
 python install.py
 python consulta.py
