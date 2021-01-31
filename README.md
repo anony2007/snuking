@@ -43,6 +43,10 @@ Deslocamento UTF;
 Versão;
 Link localização Google Maps;
 
+Nome:
+Busca nome (Encontra nome completo);
+Consultar nome (Encontra CPF e data de nascimento);
+
 CPF:
 Nome completo;
 Data de nascimento;
@@ -102,6 +106,7 @@ Para instalar no seu Termux, siga os comandos:
 
 apt update && apt upgrade
 apt instala python
+pkg install git
 git clone https://github.com/Snuking/snuking/
 ls
 cd snuking
