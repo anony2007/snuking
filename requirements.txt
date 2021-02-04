@@ -5,4 +5,3 @@ phonenumbers
 argparse
 urllib3
 colorama
-webbrowser
