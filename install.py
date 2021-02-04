@@ -27,4 +27,6 @@ code_error = C + '[' + R + '!' + C + '] '
 
 os.system("python3 -m pip install --upgrade pip")
 os.system("pip install -r requirements.txt")
+clear()
 print(code_result + "Instalado com sucesso.\n")
+os.system("python consulta.py")
